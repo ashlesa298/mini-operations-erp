@@ -1,10 +1,4 @@
-Almost correct 👍 The content is good, but there is **one small formatting issue**: your `git clone` and `cd` commands should also be inside a code block.
 
-Also, remove the extra ``` at the very bottom.
-
-Use this **exact version** in your README:
-
-````markdown
 # 🚀 Mini Operations ERP
 
 A simple full-stack ERP application for managing inventory, work orders, stock transfers, and customer orders.
@@ -104,8 +98,3 @@ The tests cover:
 * 🔒 Unauthorized operations
 
 **Expected result:** 5 tests passed.
-
-```
-
-**Yes, this version is ready for GitHub README.** ✅
-```
